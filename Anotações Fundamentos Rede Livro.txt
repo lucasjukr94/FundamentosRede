@@ -1,0 +1,117 @@
+[Cap 1 - Networking Fundamentals]
+
+ºMainframe - computador central, responsável pelo processamento de um volume grande de informações
+ºData Communication - movimentação de informação de um ponto a outro por transmissão entre sistemas
+ºFibra Optica - Cabo que consiste de material fino, transparente de plastico ou vidro que emite informação via sinal laser
+ºProtocolo - Definem a forma de comunicação entre os aparelhos, como formatos e sinais de frequência
+ºGateway(Ponte de ligação) - Um aparelho de conexão que é usado para conectar redes e aparelhos que não poderiam se comunicar entre si normalmente
+ºNetwork adapter(Adaptador de redes) - é um hardware que permite um computador a conectar com a rede
+ºNIC(Network Interface Card) - outro nome para um adaptador de redes
+ºHUB - Aparelho para conectar multiplas máquinas na rede
+ºSwitch - Aparelho que funciona como HUB, porém, mais sofisticado que permite o controle e gerenciamento das transmissões de dados
+ºRouter - Aparelho que conecta um ou mais redes
+ºAccess Point - Um ponto de entrada designado em uma rede onde aparelhos wireless enviam e recebem transmissões
+ºNode - É um aparelho unicamente identificável
+ºBridge - Aparelho usado para conectar duas ou mais redes físicas
+ºBrouter - Um aparelho de conexão que transmite protocolos e dados
+
+ºModelos de Sistemas de Rede:
+	-Client/Server - um ou mais computadores funcionam como servidores, fornecendo os dados, enquanto os demais funcionam como clientes, que recebem os dados
+	-Directory Services Network - multiplos servidores com cópias redundantes para garantir a informação e os dados em caso de falha
+	-Peer-to-Peer(par-a-par) - os computadores dos cliente funcionam também como servidores, não mais tendo um controle centralizado sobre os dados e informações
+
+ºTipos de Protocolos:
+	-Cada tipo de protocolo é único e tipos diferentes não podem se comunicar.
+	-Protocolos de Baixo Nível - Token Ring, ARCNET e Ethernet(mais utilizado);
+		-Controlam o processo físico da comunicação de dados(nível de hardware)
+	-Protocolos de Alto Nível - AppleTalk, IPX/SPX, NetBEUI e TCP/IP(se tornou o padrão de todos os computadores, de facto standard);
+		-Operam em nível de software
+		-Controlam a formatação de mensagens
+		-Controlam o endereçamento e handshaking(websocket)
+
+ºLAN(Local Area Network) - Área que abrange uma sala
+ºCAN(Campus Area Network) - Área que abrange uma faculdade
+ºMAN(Metropolitan Area Network) - Área que abrange uma metrópole
+	-É feito de diversos LANs que se conectam na região metropolitana
+	-MANs tradicionais se conectam via backbone network(BN)
+ºWAN(Wide Area Network) - Área que abrange a internet
+	-É feito de LANs e MANs
+	-As conexões são percorridas nos cabos de telefone, porque eles cobrem uma área geográfica maior
+
+ºintranet - LAN que usa as mesmas tecnologias da Internet, como web servers, mas é privado para uma organização
+ºextranet - similar à intranet(LAN que usa as mesmas tecnologias da Internet, como web servers), 
+	mas feito para convidar usuários fora da organização, que utilizam a internet
+ºBroadband(Banda larga) - um método de enviar sinais em uma larga banda de frequências.Quando mais larga a banda, melhor é a informação carregada.
+ºASP(Application Service Provider) - um ASP desenvolve um sistema específico(como um sistema de pagamentos, ou reserva de voos), e a empresa compra o serviço
+ºPervasive networking - A comunicação de redes vai estar presente em qualquer lugar algum dia
+ºConvergence - integração de voz, vídeo e dado na comunicação
+ºVPN(Virtual Private Network) - Um caminho de comunicação privada dentro da internet publica, 
+	funcionando como uma rede segura e encriptada dentro de uma rede maior pública. 
+	
+->Summary Questions)
+1)True
+2)D
+3)A
+4)C
+5)C
+6)C
+7)False, Web browser
+8)D
+9)A
+10)A
+11)C
+12)C
+13)D
+14)D
+15)True
+16)A
+17)B
+18)D
+19)A
+20)C
+---------------------------------------------------------------------FIM Cap.1--------------------------------------------------------------------------------
+		
+[Cap 2 - Network Standards and Models]
+
+---------------------------------------------------------------------FIM Cap.2--------------------------------------------------------------------------------
+
+[Cap 3 - Network Protocols]
+
+---------------------------------------------------------------------FIM Cap.3--------------------------------------------------------------------------------
+
+[Cap 4 - Network Architectures]
+
+---------------------------------------------------------------------FIM Cap.4--------------------------------------------------------------------------------
+
+[Cap 5 - Network Topologies]
+
+---------------------------------------------------------------------FIM Cap.5--------------------------------------------------------------------------------
+
+[Cap 6 - Network Media and Devices]
+
+---------------------------------------------------------------------FIM Cap.6--------------------------------------------------------------------------------
+
+[Cap 7 - Transmission Control Protocol/ Internet Protocol (TCP/IP)]
+
+---------------------------------------------------------------------FIM Cap.7--------------------------------------------------------------------------------
+
+[Cap 8 - Network Servers and Services Fundamentals]
+
+---------------------------------------------------------------------FIM Cap.8--------------------------------------------------------------------------------
+
+[Cap 9 - Enterprise Networking Services]
+
+---------------------------------------------------------------------FIM Cap.9--------------------------------------------------------------------------------
+
+[Cap 10 - Wireless, Remote, and Wide Area Networking]
+
+---------------------------------------------------------------------FIM Cap.10--------------------------------------------------------------------------------
+
+[Cap 11 - Network Security]
+
+---------------------------------------------------------------------FIM Cap.11--------------------------------------------------------------------------------
+
+[Cap 12 - Network Management]
+
+---------------------------------------------------------------------FIM Cap.12--------------------------------------------------------------------------------
+
